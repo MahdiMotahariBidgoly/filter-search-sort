@@ -1,0 +1,15 @@
+/** @format */
+
+.selection {
+  padding: 10px 5px;
+  min-width: 15rem;
+}
+.selectContainer {
+  display: flex;
+  align-items: center;
+}
+.selectContainer span {
+  display: block;
+  margin-right: 0rem;
+  margin-left: 10px;
+}

@@ -1,0 +1,35 @@
+/** @format */
+
+/* .filter {
+  display: flex;
+  justify-content: space-between;
+  min-width: 50rem;
+  align-items: center;
+}
+.filterselection {
+  padding: 10px 5px;
+  min-width: 15rem;
+  margin-right: 10px;
+}
+.sortselection {
+  padding: 10px 5px;
+  min-width: 15rem;
+}
+.selectContainer {
+  display: flex;
+  align-items: center;
+}
+.selectContainer span {
+  display: block;
+  margin-right: 0rem;
+  margin-left: 10px;
+} */
+
+/* session72 */
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  min-width: 50rem;
+  align-items: center;
+}
